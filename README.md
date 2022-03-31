@@ -18,11 +18,10 @@ Once you’ve integrated to the Redox API, you’ll be able to use the same code
 
 In particular, the Redox platform offers:
 
-```
-*The Redox API: a single, consistent, modern API to access patient data at your healthcare partners, regardless of the data format, connectivity     requirements, or communication methods of the originating system
 
-*A Dashboard to configure, troubleshoot, and understand the health of all your integrations
+* The Redox API: a single, consistent, modern API to access patient data at your healthcare partners, regardless of the data format, connectivity     requirements, or communication methods of the originating system
+* A Dashboard to configure, troubleshoot, and understand the health of all your integrations
+* A network of healthcare data systems and sources to connect to
 
-*A network of healthcare data systems and sources to connect to
-```
+
 
