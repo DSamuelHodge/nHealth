@@ -1,5 +1,5 @@
 # nHealth
-Remote Patient Monitoring Platform
+**REMOTE PATIENT MONITORING APP**
 
 
 **Redox API**
@@ -18,15 +18,11 @@ Once you’ve integrated to the Redox API, you’ll be able to use the same code
 
 In particular, the Redox platform offers:
 
-    The Redox API: a single, consistent, modern API to access patient data at your healthcare partners, regardless of the data format, connectivity     requirements, or communication methods of the originating system
-    A Dashboard to configure, troubleshoot, and understand the health of all your integrations
-    A network of healthcare data systems and sources to connect to
+```
+*The Redox API: a single, consistent, modern API to access patient data at your healthcare partners, regardless of the data format, connectivity     requirements, or communication methods of the originating system
 
-**Redox Platform Documentation**
+*A Dashboard to configure, troubleshoot, and understand the health of all your integrations
 
-This documentation is meant to explain and describe how the Redox platform works, including:
+*A network of healthcare data systems and sources to connect to
+```
 
-Getting Started – get up and running as quickly as possible by sending and viewing test requests
-Core Concepts – learn the fundamentals of how Redox works and how to navigate the Dashboard
-Redox JSON API – familiarize yourself with our API and how to connect your application to Redox – additional tools and features to manage your integrations
-Custom Configuration & Automation – additional tools and features to manage your integration
